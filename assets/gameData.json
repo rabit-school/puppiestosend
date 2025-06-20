@@ -1,0 +1,15 @@
+{
+  "totalWin": 1.5,
+  "tilesData": [1, 2, 3, 1, 5, 1, 1, 1, 9, 10, 1, 1, 12, 10, 11],
+  "winData": [
+    {
+    "lineNo": 3,
+    "symbol": 4,
+    "x": 3,
+    "pay": 0.3,
+    "multi": 1,
+    "setArray": [4, 2, 4]
+    }
+  ],
+  "bonus": [3, 6, 11]
+}
